@@ -6,9 +6,10 @@ h1 {
     font-size: 75px;
 }
 nav{
+    position: sticky;
+    top: 0;
     text-align: center;
     font-size: 12px;
-    position: sticky;
     padding-top: 15px;
     padding-bottom: 15px;
     background-color: aqua;
